@@ -16,10 +16,11 @@ dependencies:
   - joblib
   - azureml-core~=1.10.0
   - azureml-defaults~=1.10.0
-  - scikit-learn==0.20.3
+  - scikit-learn==0.22.2.post1
   - inference-schema
   - inference-schema[numpy-support]
   - azureml-monitoring
+  - azure-ml-api-sdk
 
 channels:
 - anaconda
