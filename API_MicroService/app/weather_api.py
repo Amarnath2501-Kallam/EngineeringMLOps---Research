@@ -10,7 +10,7 @@ import onnxruntime as rt
 app = FastAPI()
 
 # Load model scalar
-pickle_in = open("artifacts/model-scaler.pkl", "rb")
+pickle_in = open("artifacts/scaler.pkl", "rb")
 scaler = pickle.load(pickle_in)
 
 # Load the model
