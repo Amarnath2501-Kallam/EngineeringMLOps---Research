@@ -9,4 +9,6 @@ MLOps is a systematic approach to building, deploying, and monitoring machine le
   * MLOps pipeline (build, deploy, and monitor) – the upper layer
   * Drivers: Data, code, artifacts, middleware, and infrastructure – mid and lower layers
 
-<img width="958" alt="Screenshot 2021-12-10 at 15 39 38" src="https://user-images.githubusercontent.com/61119710/145600614-cde8cd98-cf40-4c30-98f5-e61cd51c1add.png">
+<img width="1000" alt="Screenshot 2021-12-10 at 15 39 38" src="https://user-images.githubusercontent.com/61119710/145600614-cde8cd98-cf40-4c30-98f5-e61cd51c1add.png">
+
+# Machine
