@@ -52,6 +52,10 @@ APIs and Microservices are powerful tools that help to enable your ML models to 
 
 **Working of an API**
 
+<img width="949" alt="Screenshot 2021-12-13 at 14 03 19" src="https://user-images.githubusercontent.com/61119710/145826472-75b33761-49c8-4c56-8bde-be4062de3a51.png">
+
+
+
 
 
 # Monitoring ML System
