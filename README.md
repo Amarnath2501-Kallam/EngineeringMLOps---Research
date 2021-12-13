@@ -46,6 +46,14 @@ Automation is the primary reason for the CI/CD in the MLOps workflow. The goal o
 
 <img width="1176" alt="Screenshot 2021-12-13 at 00 44 42" src="https://user-images.githubusercontent.com/61119710/145737166-13edf686-b731-4671-879b-c0510b64658c.png">
 
+# APIs and Microservices
+
+APIs and Microservices are powerful tools that help to enable your ML models to become useful in production or legacy systems for serving the models or communicating with other components of the system. Using APIs and Microservices, you can design a robust and scalable ML solution to carter to your business needs.
+
+**Working of an API**
+
+
+
 # Monitoring ML System
 
 In a dynamically changing world the environment and data in which the ML model is deploymed to perform a task or make a prediction is continually evolving, and it is essential to consider this change. Drift is related to changes in the environment and refers to the degradation of predictive ML models performance and the relationship between the variables degrading. 
