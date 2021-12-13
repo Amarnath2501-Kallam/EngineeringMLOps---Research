@@ -2,7 +2,6 @@
 
 **End-To-End MLOps Delivery & Excellence** 
 
-
 MLOps is a systematic approach to building, deploying, and monitoring machine learning (ML) solutions. It is an engineering discipline that can be applied to various industries and use cases. It brings together data engineering, ML, and DevOps in a streamlined fashion. it is modular and flexible and can be used to build proofs of concept or to operationalize ML solutions in any business or industry
 
 **This workflow is segmented into two modules :**
@@ -10,6 +9,23 @@ MLOps is a systematic approach to building, deploying, and monitoring machine le
   * Drivers: Data, code, artifacts, middleware, and infrastructure – mid and lower layers
 
 <img width="1000" alt="Screenshot 2021-12-10 at 15 39 38" src="https://user-images.githubusercontent.com/61119710/145600614-cde8cd98-cf40-4c30-98f5-e61cd51c1add.png">
+
+# Data preprocessing
+
+Raw data cannot be directly passed to the ML model for training purposes. We have to refine preprocess the data before training the ML model. To further analyze the imported data, we will perform a series of steps to preprocess the data into a suitable shape for the ML training. We start by assessing the quality of the data into a suitable shape for the ML training. We start by assessing the quality of the data to check for accuracy, completeness,reliability,relevance,and timeliness. After that we calibrate the required data which is ideal for ML training. Lastly, we will analyze the correlations and time series, and filter out irrelevant data for training ML models.
+
+# Machine learning Pipelines
+
+<img width="949" alt="Screenshot 2021-12-13 at 12 17 10" src="https://user-images.githubusercontent.com/61119710/145810798-1008de88-0cbe-446b-8a01-7ee69ca75603.png">
+
+As shown in the figure a comprehensive ML pipeline consists of the following steps
+  * Data ingestion
+  * Model training
+  * Model testing
+  * Model packaging
+  * Model registering
+  
+  We will implement all these steps of the pipeline using the Azure ML service.
 
 # Model evaluation and interpretability metrics
 
