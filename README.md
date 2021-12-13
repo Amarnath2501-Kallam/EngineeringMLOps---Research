@@ -54,9 +54,11 @@ APIs and Microservices are powerful tools that help to enable your ML models to 
 
 <img width="949" alt="Screenshot 2021-12-13 at 14 03 19" src="https://user-images.githubusercontent.com/61119710/145826472-75b33761-49c8-4c56-8bde-be4062de3a51.png">
 
+**Microservices**
 
+Microservices are a modern way of designing and deploying apps to run a service. Microservices enable distributed applications rather than one big monolithic application where functionalities are broken up into smaller fragments. A microservice is an individual application in a microservice architecture.
 
-
+<img width="949" alt="Screenshot 2021-12-13 at 14 14 38" src="https://user-images.githubusercontent.com/61119710/145828205-4f671dc2-c712-4208-a4b1-f6b068f52b9c.png">
 
 # Monitoring ML System
 
